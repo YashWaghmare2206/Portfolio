@@ -28,9 +28,11 @@ For development, a simple local server can also be used, for example:
 python -m http.server
 ```
 
-## Deployment
+## Project Deployment
 
-The project can be published using GitHub Pages from the repository's `main` branch.
+This portfolio is developed using HTML, CSS, and JavaScript and is maintained using Git and GitHub.
+
+The project is intended to demonstrate version control, incremental development, and deployment of a personal portfolio website.
 
 ## Author
 
